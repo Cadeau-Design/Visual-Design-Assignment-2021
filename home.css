@@ -176,6 +176,8 @@ p {
   background-color: rgb(230, 172, 172);
   width: 100%;
   margin-top: 0px;
+  
+ 
 }
 
 footer {
@@ -185,8 +187,10 @@ footer {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  margin-top: 0px;
+  margin-top: auto;
+ 
 }
+
 
 footer h4 {
   color: snow;
